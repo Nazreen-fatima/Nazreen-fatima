@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm a passionate engineering student with a keen interest in web development, AI, and open-source technologies. Over the past year, I've been actively building my skills through hands-on experiences, certifications, and competitions.<br> Highlights:<br>🥈 Runner-Up at FlowJam'26 Hackathon (FlutterFlow Developer Group, Prayagraj) — built "Nagar Setu," a civic complaint management app<br>💼 Web Development Intern at Cognifyz Technologies<br>🤝 Internshala Student Partner (ISP) — empowering students with internship opportunities<br>☁️ Gemini Certified by Google for Education & completed Introduction to Generative AI (Google Cloud × Simplilearn)<br>🐍 Completed Python for Data Science Summer Training (60 hours) at United Institute of Technology, Prayagraj<br>🎨 Certified in Graphic Design (Cursa) and AI Tools & ChatGPT (be10x)<br>🌐 Attendee at DevFest Prayagraj, TEDxUnited Institute of Technology, and FOSS United events<br>🏅 Completed Google Arcade & Labs program<br>I thrive at the intersection of creativity and technology, and I'm always looking for opportunities to grow, collaborate, and contribute to meaningful projects.<br>📬 Open to collaborations, internships, and tech conversations!
-
+👋 Hi, I'm a Computer Science Engineering student passionate about Web Development, AI/ML, and Open Source.
+🚀 Runner-Up at FlowJam'26 Hackathon for developing *Nagar Setu*, a civic complaint management app.
+💻 Former Web Development Intern at Cognifyz Technologies and active contributor to tech communities through hackathons, workshops, and developer events.
+🌱 Currently exploring Full-Stack Development, Generative AI, and Data Science while building impactful projects and continuously learning new technologies.
+📫 Open to collaborations, internships, and exciting tech opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nazreen-fatima-73866b331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zebashuaib626@gmail.com) 
