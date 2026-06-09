@@ -3,7 +3,7 @@
 🚀 Runner-Up at FlowJam'26 Hackathon for developing *Nagar Setu*, a civic complaint management app.
 💻 Former Web Development Intern at Cognifyz Technologies and active contributor to tech communities through hackathons, workshops, and developer events.
 🌱 Currently exploring Full-Stack Development, Generative AI, and Data Science while building impactful projects and continuously learning new technologies.
-📫 Open to collaborations, internships, and exciting tech opportunities..
+📫 Open to collaborations, internships, and exciting tech opportunities...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nazreen-fatima-73866b331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zebashuaib626@gmail.com) 
